@@ -63,3 +63,15 @@
     </tr>
   </table>
 </p>
+
+# 프로젝트 개요
+<p>
+  결정 피로를 겪는 사용자를 위한 맞춤형 하루 추천 서비스 '오늘 뭐하지?' 애플리케이션입니다. GPT-4.1과 ChromaDB를 활용한 RAG 기반 추천 시스템으로 사용자 취향에 맞는 최적의 장소를 제안하며 , 카카오/T맵 API를 연동하여 이동 동선이 고려된 일정표 자동 생성 기능을 구현했습니다. Flutter와 FastAPI, AWS 환경에서 구축되었으며 , 매장 추천부터 일정 공유까지 올인원 솔루션을 제공하여 계획 수립의 번거로움을 해결했습니다.
+</p>
+
+# 코드 저장소
+<p>
+  <a href="https://github.com/Clear-head/EclipseMainServer">메인서버<br>
+  <a href="https://github.com/Clear-head/EclipseCommunityServer">커뮤니티서버<br>
+  <a href="https://github.com/sswwdk/EclipseApp">프론트엔드 앱
+</p>
